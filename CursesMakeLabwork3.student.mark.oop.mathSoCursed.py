@@ -46,10 +46,6 @@ chem1.input_mark(["BI583", "BA163", "BI034", "BA478", "BI962", "BA728"], [5.38, 
 gene.input_mark(["BA728", "BI034", "BA478", "BI583", "BA163", "BI962"], [1.32, 9.24, 9.58, 3.23, 4.26, 1.68])
 linear.input_mark(["BA478", "BI962", "BA728", "BI034", "BI583", "BA163"], [12.19, 13.05, 8.51, 18.33, 13.67, 10.34])
 
-
-
-
-
 class Student:
     def __init__(self, student_id, student_name, DoB):
         self.student_id = student_id
