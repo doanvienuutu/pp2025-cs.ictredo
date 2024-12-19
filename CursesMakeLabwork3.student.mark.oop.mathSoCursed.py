@@ -33,7 +33,7 @@ class Course:
         return f"Course ID: {self.course_id}\nCourse name: {self.course_name}\nETCS: {self.etcs}\nMark: {self.__mark}"
     
 cal1 = Course("MATH1.001", "Calculus 1", 4)
-chem1 = Course("MATH1.003", "Calculus 2", 4)
+chem1 = Course("CHE1.001", "General chemistry 2", 4)
 linear = Course("MATH1.002", "Linear algebra", 4) 
 gene = Course("BIO1.002", "Genetics", 3)
 bp = Course("ICT1.002", "Basic programming", 4)
