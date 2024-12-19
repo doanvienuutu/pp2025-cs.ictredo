@@ -1,7 +1,5 @@
 import math, numpy as np
-
 from domains.Course import Course
-from domains.Student import Student
 
 list_course = []
 def add_list_course(x):

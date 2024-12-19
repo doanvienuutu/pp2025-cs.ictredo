@@ -1,12 +1,3 @@
-#• Copy your practical work 2 to 3.student.mark.oop.math.py
-#• Use math module to round-down student scores to 1-digit
-#  decimal upon input, floor()
-#• Use numpy module and its array to
-#   • Add function to calculate average GPA for a given student 
-#   • Weighted sum of credits and marks
-#   • Sort student list by GPA descending
-#• Decorate your UI with curses module
-
 from domains.Student import Student
 from domains.Course import Course
 import input
