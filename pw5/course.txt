@@ -1,0 +1,25 @@
+Course ID: BIO1.002
+Course name: Genetics
+ETCS: 3
+Mark: {'BA728': 1.3, 'BI034': 9.2, 'BA478': 9.5, 'BI583': 3.2, 'BA163': 4.2, 'BI962': 1.6}
+
+Course ID: CHE1.001
+Course name: General chemistry 1
+ETCS: 4
+Mark: {'BI583': 5.3, 'BA163': 6.9, 'BI034': 3.9, 'BA478': 7.5, 'BI962': 10.1, 'BA728': 11.3}
+
+Course ID: ICT1.002
+Course name: Basic programming
+ETCS: 4
+Mark: {'BA163': 10.5, 'BA728': 10.5, 'BA478': 4.2, 'BI583': 15.8, 'BI034': 18.8, 'BI962': 9.5}
+
+Course ID: MATH1.001
+Course name: Calculus 1
+ETCS: 4
+Mark: {'BI034': 15.2, 'BA163': 13.9, 'BA478': 10.6, 'BI962': 5.1, 'BA728': 17.9, 'BI583': 18.3}
+
+Course ID: MATH1.002
+Course name: Linear algebra
+ETCS: 4
+Mark: {'BA478': 12.1, 'BI962': 13.0, 'BA728': 8.5, 'BI034': 18.3, 'BI583': 13.6, 'BA163': 10.3}
+

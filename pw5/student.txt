@@ -1,0 +1,36 @@
+Student ID: BI034
+Student name: Alex Hwang
+Date of birth: 30/9/1994
+Mark: {'Genetics': 9.2, 'General chemistry 1': 3.9, 'Basic programming': 18.8, 'Calculus 1': 15.2, 'Linear algebra': 18.3}
+GPA: 13.2
+
+Student ID: BI583
+Student name: Tran Van Nam
+Date of birth: 5/1/2003
+Mark: {'Genetics': 3.2, 'General chemistry 1': 5.3, 'Basic programming': 15.8, 'Calculus 1': 18.3, 'Linear algebra': 13.6}
+GPA: 11.6
+
+Student ID: BA728
+Student name: Tan Ta Yen
+Date of birth: 18/2/2000
+Mark: {'Genetics': 1.3, 'General chemistry 1': 11.3, 'Basic programming': 10.5, 'Calculus 1': 17.9, 'Linear algebra': 8.5}
+GPA: 10.3
+
+Student ID: BA163
+Student name: Bat Binh An
+Date of birth: 9/5/2005
+Mark: {'Genetics': 4.2, 'General chemistry 1': 6.9, 'Basic programming': 10.5, 'Calculus 1': 13.9, 'Linear algebra': 10.3}
+GPA: 9.4
+
+Student ID: BA478
+Student name: Nguyen Van Cuong
+Date of birth: 12/2/2001
+Mark: {'Genetics': 9.5, 'General chemistry 1': 7.5, 'Basic programming': 4.2, 'Calculus 1': 10.6, 'Linear algebra': 12.1}
+GPA: 8.7
+
+Student ID: BI962
+Student name: Dang Tinh Thuong
+Date of birth: 2/1/1992
+Mark: {'Genetics': 1.6, 'General chemistry 1': 10.1, 'Basic programming': 9.5, 'Calculus 1': 5.1, 'Linear algebra': 13.0}
+GPA: 8.1
+
